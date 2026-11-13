@@ -1,0 +1,7 @@
+Post http://localhost:3000/api/product
+
+{
+    "productName":"nnvvvd",
+    "unitPrice":0,
+    "stockQty":''
+}
